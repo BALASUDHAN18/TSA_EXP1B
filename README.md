@@ -61,17 +61,19 @@ plt.show()
 ```
 ### OUTPUT:
 
-#### ORIGINAL DATA:
-![output](./out/o1.png)
+![](original-data.png)
+
 #### REGULAR DIFFERENCING:
-![img](./out/o2.png)
+
+![tsa1](regular-differencing.png)
 
 #### SEASONAL ADJUSTMENT:
-![img](./out/o3.png)
 
+![tsa2](seasonal-adjustment.png)
 
 #### LOG TRANSFORMATION:
-![img](./out/o4.png)
+
+![tsa3](log-transformation.png)
 
 
 
